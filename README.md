@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile!
+# ✨ Welcome to my GitHub profile! ✨
 
 - I'm <strong> Fabrizio </strong>, an italian guy with a lot of passions like photography, beer and cooking.
 - I'm currently studying at Universitá degli studi di Verona and I'm at the first year of Computer Science Master's Degree.
