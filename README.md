@@ -6,6 +6,14 @@
 ---
 Android user on my smartphone(OxygenOS), EndaviourOS and Windows (_for gaming_) on my laptop and my desktop. I only use mechanical keyboard (now I only have two: an anne pro 2 with lubed Gatheron Red and a Akko Ocean Star 3068 SP with \*sigh\* Cherry Blue switches).
 
+---
+How to contact me:
+\
+<a href="t.me/Fabbro">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" width="40" height="40" alt="Telegram">
+</a>
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabbro96)](https://github.com/Fabbro96/github-readme-stats)
 <!--
 **Fabbro96/Fabbro96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
