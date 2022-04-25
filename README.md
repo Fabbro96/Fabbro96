@@ -9,7 +9,7 @@ Android user on my smartphone(OxygenOS), EndaviourOS and Windows (_for gaming_) 
 ---
 How to contact me:
 \
-<a href="t.me/Fabbro">
+<a href="https://t.me/Fabbrox">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" width="40" height="40" alt="Telegram">
 </a>
 ---
