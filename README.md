@@ -17,12 +17,12 @@ I only use mechanical keyboard (now I only have two: an anne pro 2 with lubed Ga
 * * Dart
 * * Java
 * * JavaScript
-* * JSon
 * * Other languages for managing DBs
-* Not Programming Languages:
+* Markup Languages:
 * * HTML
 * * MarkDown
-* Other things:
+* * LaTeX
+* Other informatic things that I'm interested in:
 * * CyberSecurity
 
 ---
