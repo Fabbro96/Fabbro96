@@ -12,17 +12,17 @@ I only use mechanical keyboard (now I only have two: an anne pro 2 with lubed Ga
 ---
 
 ### What I'm trying to learn about:
-* Programming Languages:
+* #### Programming Languages:
 * * Python
 * * Dart
 * * Java
 * * JavaScript
 * * Other languages for managing DBs
-* Markup Languages:
+* #### Markup Languages:
 * * HTML
 * * MarkDown
 * * LaTeX
-* Other informatic things that I'm interested in:
+* #### Other informatic things that I'm interested in:
 * * CyberSecurity
 
 ---
