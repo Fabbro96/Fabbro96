@@ -16,6 +16,12 @@ I only use mechanical keyboard (now I only have two: an anne pro 2 with lubed Ga
 * * Python
 * * Dart
 * * Java
+* * JavaScript
+* * JSon
+* * Other languages for managing DBs
+* Not Programming Languages:
+* * HTML
+* * MarkDown
 * Other things:
 * * CyberSecurity
 
