@@ -10,6 +10,17 @@ Android user on my smartphone(OxygenOS), EndaviourOS and Windows (_for gaming_) 
 I only use mechanical keyboard (now I only have two: an anne pro 2 with lubed Gatheron Red and a Akko Ocean Star 3068 SP with \*sigh\* Cherry Blue switches).
 
 ---
+
+### What I'm trying to learn about:
+* Programming Languages:
+* * Python
+* * Dart
+* * Java
+* Other things:
+* * CyberSecurity
+
+---
+
 #### How to contact me:
 <a href="https://t.me/Fabbrox">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" width="35" height="35" alt="Telegram">
