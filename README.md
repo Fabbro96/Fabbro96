@@ -33,11 +33,11 @@ I only use mechanical keyboard (now I only have two: an anne pro 2 with lubed Ga
 </a>
 
 <a href="mailto:fabbrox96@proton.me">
-  <img src="https://cdn3.iconfinder.com/data/icons/mail-1-glyph/512/17-Locked_Mail-512.png" width="38" height="38" alt="E-Mail">
+  <img src="https://static-00.iconduck.com/assets.00/protonmail-icon-512x512-3an9f0i8.png" width="38" height="38" alt="E-Mail">
 </a>
 
 <a href="https://www.reddit.com/user/fabbrox96/">
-  <img src="http://www.vectorico.com/download/social_media/Reddit-Icon.png" width="35" height="35" alt="Reddit">
+  <img src="https://static-00.iconduck.com/assets.00/reddit-icon-512x512-6flrxyyq.png" width="35" height="35" alt="Reddit">
 </a>
 
 <a href="https://twitter.com/Fabbrox96">
