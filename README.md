@@ -47,6 +47,7 @@ I only use mechanical keyboard (now I only have two: an anne pro 2 with lubed Ga
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabbro96)](https://github.com/Fabbro96/github-readme-stats)
+[![Fabbro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabbro96)](https://github.com/Fabbro96/github-readme-stats)
 <!--
 **Fabbro96/Fabbro96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
