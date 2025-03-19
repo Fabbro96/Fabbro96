@@ -28,24 +28,32 @@ I only use mechanical keyboard (now I only have two: an anne pro 2 with lubed Ga
 ---
 
 #### How to contact me:
-<a href="https://t.me/Fabbrox">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" width="35" height="35" alt="Telegram">
-</a>
-
-<a href="mailto:fabbrox96@proton.me">
-  <img src="https://static-00.iconduck.com/assets.00/protonmail-icon-512x512-3an9f0i8.png" width="38" height="38" alt="E-Mail">
-</a>
-
-<a href="https://www.reddit.com/user/fabbrox96/">
-  <img src="https://static-00.iconduck.com/assets.00/reddit-icon-512x512-6flrxyyq.png" width="35" height="35" alt="Reddit">
-</a>
-
-<a href="https://twitter.com/Fabbrox96">
-  <img src="https://socialb.co.uk/wp-content/uploads/2017/04/Twitter_logo_bird_transparent_png-1024x831.png" width="35" height="32" alt="Twitter">
-</a>
+<div style="display: flex; gap: 30px;">
+  <a href="https://t.me/Fabbrox">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" width="35" height="35" alt="Telegram">
+  </a>
+  <a href="mailto:fabbrox96@proton.me">
+    <img src="https://static-00.iconduck.com/assets.00/protonmail-icon-512x512-3an9f0i8.png" width="38" height="38" alt="E-Mail">
+  </a>
+  <a href="https://www.reddit.com/user/fabbrox96/">
+    <img src="https://static-00.iconduck.com/assets.00/reddit-icon-512x512-6flrxyyq.png" width="35" height="35" alt="Reddit">
+  </a>
+  <a href="https://twitter.com/Fabbrox96">
+    <img src="https://socialb.co.uk/wp-content/uploads/2017/04/Twitter_logo_bird_transparent_png-1024x831.png" width="35" height="32" alt="Twitter">
+  </a>
+</div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabbro96&layout=pie)](https://github.com/Fabbro96/github-readme-stats)
+#### User Stats
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+  <a>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabbro96&layout=compact" />
+  </a>
+  <a href="https://github.com/Fabbro96/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Fabbro96&show_icons=true&theme=shades-of-purple" />
+  </a>
+</div>
+
 <!--
 **Fabbro96/Fabbro96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
