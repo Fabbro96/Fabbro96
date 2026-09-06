@@ -1,70 +1,47 @@
 # ✨ Welcome to my GitHub profile! ✨
 
-- I'm <strong> Fabrizio </strong>, an italian guy with a lot of passions like photography, beer and cooking.
-- I've studied at Universitá degli studi di Verona and I have a Computer Science Master's Degree.
-- I'm really interested in cybersecurity and I'm trying to learn something about privacy online (and use FOSS apps in my smartphone).
----
-
-Android user on my smartphone, EndaviourOS and Windows (_only for gaming_) on my laptop and my desktop. 
-\
-I only use mechanical keyboard (now I only have two: an anne pro 2 with lubed Gatheron Red and a Akko Ocean Star 3068 SP with \*sigh\* Cherry Blue switches).
+Hi! I'm **Fabrizio** (`@Fabbro96`), a software developer based in Verona, Italy with a Master's Degree in Computer Science.
+Passionate about building practical tools, homelab services, cybersecurity, and open-source software.
 
 ---
 
-### What I'm trying to learn about:
-* #### Programming Languages:
-* * Python
-* * Dart
-* * Java
-* * JavaScript
-* * Other languages for managing DBs
-* #### Markup Languages:
-* * HTML
-* * MarkDown
-* * LaTeX
-* #### Other informatic things that I'm interested in:
-* * CyberSecurity
+### 🛠️ Tech & Tools
+
+- **Languages:** Dart / Flutter, Go, Python, C++, TypeScript / JavaScript
+- **Platforms & Systems:** Linux (EndeavourOS), Android, Embedded / ESP32, Docker & Homelab
+- **Interests:** Cybersecurity, privacy-focused & FOSS software, automation, telemetry
 
 ---
 
-#### How to contact me:
-<div style="display: flex; gap: 30px;">
-  <a href="https://t.me/Fabbrox">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" width="35" height="35" alt="Telegram">
+### ⌨️ Hobbies & Setup
+
+- Big fan of mechanical keyboards (custom boards with lubed Gateron Reds & tactile switches).
+- Photography, craft beer, and cooking.
+
+---
+
+### 📬 Connect with me
+
+<div align="left">
+  <a href="https://t.me/Fabbrox" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:fabbrox96@proton.me">
-    <img src="https://static-00.iconduck.com/assets.00/protonmail-icon-512x512-3an9f0i8.png" width="38" height="38" alt="E-Mail">
+    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
   </a>
-  <a href="https://www.reddit.com/user/fabbrox96/">
-    <img src="https://static-00.iconduck.com/assets.00/reddit-icon-512x512-6flrxyyq.png" width="35" height="35" alt="Reddit">
+  <a href="https://www.reddit.com/user/fabbrox96/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
-  <a href="https://twitter.com/Fabbrox96">
-    <img src="https://socialb.co.uk/wp-content/uploads/2017/04/Twitter_logo_bird_transparent_png-1024x831.png" width="35" height="32" alt="Twitter">
+  <a href="https://x.com/Fabbrox96" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
 </div>
 
 ---
-#### User Stats
-<div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
-  <a>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabbro96&layout=compact" />
-  </a>
-  <a href="https://github.com/Fabbro96/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Fabbro96&show_icons=true&theme=shades-of-purple" />
-  </a>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabbro96&layout=compact&theme=shades-of-purple" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fabbro96&show_icons=true&theme=shades-of-purple" alt="GitHub Stats" />
 </div>
-
-<!--
-**Fabbro96/Fabbro96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
