@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hey there, I'm Fabrizio 👋</h1>
-  <p><strong>Software Developer & Homelab Crafter based in Verona, Italy 🇮🇹</strong></p>
+  <p><strong>Computer Science Graduate • Tech & Privacy Enthusiast • Homelab Crafter based in Verona, Italy 🇮🇹</strong></p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=580&lines=Building+cross-platform+apps+%E2%80%A2+mobile+%26+desktop;Flutter+%E2%80%A2+Go+%E2%80%A2+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Linux;Homelab+Enthusiast+%E2%80%A2+Self-Hosting;IoT+%26+Embedded+%E2%80%A2+ESP32;FOSS+%26+Privacy+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=580&lines=Computer+Science+Graduate+%E2%80%A2+Verona%2C+Italy;Homelab+Enthusiast+%E2%80%A2+Self-Hosting;Cybersecurity+%E2%80%A2+Online+Privacy;Linux+%E2%80%A2+Fedora+%E2%80%A2+IoT+%26+Automation" alt="Typing SVG" />
   </a>
   <br/><br/>
 </div>
@@ -13,9 +13,9 @@
 ### ⚡ About Me
 
 - 🎓 Graduated with a **Master's Degree in Computer Science** from the *University of Verona*.
-- 🛠️ Passionate about designing practical cross-platform applications, low-level telemetry, automation bots, and IoT gadgets.
-- 🐧 Daily driving **Linux** ([EndeavourOS](https://endeavouros.com/)) on desktop & laptop.
-- 🔒 Strong interest in **Cybersecurity**, online privacy, and self-hosted open-source software (FOSS).
+- 🔒 Strong passion for **Cybersecurity**, online privacy, and self-hosted open-source software (FOSS).
+- 🐧 Daily driving **Linux** ([Fedora](https://fedoraproject.org/)) on desktop & laptop.
+- 🏠 Self-hosting and homelab tinkering with Docker, automation, and IoT gadgets.
 - ⌨️ Mechanical keyboard enthusiast (custom boards with lubed switches).
 - 📸 Photography, craft beer brewing, and cooking in my spare time.
 
@@ -25,10 +25,10 @@
 
 <p align="left">
   <strong>Languages:</strong><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -37,7 +37,7 @@
 
 <p align="left">
   <strong>Platforms, Systems & Cloud:</strong><br/>
-  <img src="https://img.shields.io/badge/EndeavourOS-7F3FBF?style=flat-square&logo=archlinux&logoColor=white" alt="EndeavourOS" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -49,17 +49,12 @@
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Public Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**NASBot**](https://github.com/Fabbro96/NASBot) | Autonomous Telegram bot for homelab NAS monitoring, disk health & remote automation | `Python` `Docker` `Telegram API` |
 | [**StockMonitor**](https://github.com/Fabbro96/StockMonitor) | Multi-user financial dashboard with budget allocation & live stock tracking | `Python` `Finance` `APIs` |
-| [**EpaperHomeDashboard**](https://github.com/Fabbro96/EpaperHomeDashboard) | E-Paper ambient display (LilyGO T5 ESP32-S3) + Flutter companion for homelab stats & Plex | `C++` `Flutter` `ESP32` |
-| [**TabiFlow**](https://github.com/Fabbro96/TabiFlow) | Cross-platform travel itinerary planner and smart route calculator | `Flutter` `Dart` `Mobile` |
-| [**myCantina**](https://github.com/Fabbro96/myCantina) | Personal bar and cellar inventory manager with smart cocktail assistant | `Flutter` `Dart` `Android` |
-| [**PerformanceAnalysis**](https://github.com/Fabbro96/PerformanceAnalysis) | GPU/VRAM hardware telemetry daemon & native stress-testing benchmark suite | `C++` `Python` `Hardware` |
-| [**WindowOptimized**](https://github.com/Fabbro96/WindowOptimized) | Lightweight, polished GNOME 45+ shell extension for window workflow optimization | `JavaScript` `GNOME` `GJS` |
 
 ---
 
